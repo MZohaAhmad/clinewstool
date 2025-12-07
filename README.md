@@ -53,3 +53,4 @@ There's a 5-second timeout on API requests, so it won't hang forever if somethin
 - Free NewsAPI tier has rate limits, so don't go crazy with requests
 - The cache file (`cache.json`) gets created automatically
 - If you see 401 errors, check that your API key is correct in the `.env` file
+# clinewstool
